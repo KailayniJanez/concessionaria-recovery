@@ -1,0 +1,11 @@
+{
+    "name": "concessionaria-recovery",
+    "version": "1.0.0",
+    "description": "Recuperação do banco de dados da concessionária",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "Kailayni Rodrigues Janez",
+    "license": "MIT"
+}
