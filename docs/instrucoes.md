@@ -43,8 +43,6 @@ INNER JOIN marcas_corrigidas AS m
 
 7. Exporte a tabela `relatorio_vendas` em formato CSV.
 
-8. Utilize o CSV para construção do relatório final em PDF.
-
 ## Observações
 
 Todos os dados utilizados no relatório foram obtidos a partir dos arquivos JSON recuperados pelo código JavaScript.
