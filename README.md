@@ -1,4 +1,4 @@
-# Projeto Classificatório - Processo Seletivo - Tech Media.Monks
+# Projeto Classificatório - Processo Seletivo - Tech
 
 ## Descrição
 
