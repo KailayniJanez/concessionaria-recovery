@@ -55,3 +55,6 @@ As consultas incluem análises como:
 - Faixa de preço com maior quantidade de vendas;
 - Receita das três marcas com menor ticket médio;
 - Relação entre os veículos mais vendidos.
+
+## Author
+Kailayni Rodrigues Janez
